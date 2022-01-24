@@ -62,7 +62,7 @@ const App = () => {
         <div className={classes.footer}>
           <Typography variant="body1" component="h2">
             Created by
-            <a className={classes.link} href="https://github.com/Qodestackr"> Wilson Gichuhi</a> -
+            <a className={classes.link} href="https://github.com/Qodestackr"> Wilson Gichuhi</a> - &trade; 2022 : &copy;
           </Typography>
         </div>
       ) : null}
